@@ -22,7 +22,7 @@ Welcome to my GitHub! I'm passionate about computer science, AI, and web develop
 
 ### 📫 Get in Touch
 
-Feel free to reach out via [email](mailto:poudeldarshan44@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/darshan-rsd/).
+Feel free to reach out via [email](mailto:poudeldarshan44@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/poudeldarshan/).
 
 ---
 

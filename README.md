@@ -1,29 +1,44 @@
-# 👋 Hi, I'm Darshan Poudel
+# Darshan Poudel 👋
 
-Welcome to my GitHub! I'm passionate about computer science, AI, and web development. Here you'll find some of the projects I've been working on, ranging from educational platforms to AI models.
+I build practical products with **AI/ML**, **full-stack web development**, and **developer-focused tools**.  
+My work focuses on high-impact, real-world use cases in education, agriculture, productivity, and digital platforms.
 
-### 🚀 Projects
+## What I Build
 
-- **[AlgoLearn](https://algolearnn.netlify.app/)**: A text-based platform for teaching computer science concepts to beginners.
-- **[GharBari](https://gharbari.netlify.app/)**: Online grocery shopping store.
-- **[AetherRsd](https://aetherrsd.netlify.app/)**: Bunch of AI tools, specially trained to be your codding budddy.
-- **[FunFusion-1](https://funnfusion.netlify.app/)**: A lightweight game featuring a variety of mini-games, designed for entertainment in a compact package. The focus is on delivering fun experiences in different genres within a small file size.
-- **[FunFusion-2](https://funfusion-2.netlify.app/)**: The sequel to FunFusion 1, expanding on the concept with 30 mini-games packed into just 2MB. It offers a diverse range of games, focusing on accessibility and variety while maintaining a minimal storage footprint.
-- **[Plant Disease Prediction System](https://github.com/username/plant-disease-prediction)**: An AI model that predicts plant diseases based on leaf images.
-- **[CampusConnect](https://github.com/username/campusconnect)**: A university recommendation platform using AI to help students find the right universities based on their profiles.
+- **AI-powered systems** for recommendation, prediction, and decision support
+- **Web apps** that solve practical problems with clean UX
+- **Developer tools** that improve workflow and project setup speed
 
+## Featured Repositories
 
-### 🛠 Skills
+- [FieldSense](https://github.com/rsd-darshan/FieldSense) - Agricultural ML decision support for crop/fertilizer recommendations, heuristic intelligence, and optional leaf disease screening.
+- [AlgoLearn](https://github.com/rsd-darshan/AlgoLearn) - Beginner-friendly CS learning platform with simple, structured explanations and exercises.
+- [FunFusion](https://github.com/rsd-darshan/FunFusion) - Lightweight game collection with 30 mini-games in a compact package.
+- [GharBari](https://github.com/rsd-darshan/GharBari) - Grocery and household e-commerce platform built for accessibility and affordability in Nepal.
+- [merokitab](https://github.com/rsd-darshan/merokitab) - Marketplace platform for buying and selling used books.
+- [LinkU](https://github.com/rsd-darshan/LinkU) - Project for building and sharing useful links and resources.
 
-- **Languages**: Python, JavaScript, PHP, HTML, CSS
-- **AI/ML**: TensorFlow, scikit-learn
-- **Web Development**: React.js, Node.js
-- **Tools**: Git, VS Code, Docker
+## Additional Projects
 
-### 📫 Get in Touch
+- [RepoGenie](https://github.com/rsd-darshan/RepoGenie) - AI-powered repo setup assistant.
+- [RepoExplorer](https://github.com/rsd-darshan/RepoExplorer) - GitHub repository discovery with advanced filtering.
+- [Template-Explorer](https://github.com/rsd-darshan/Template-Explorer) - Browse, preview, and download website templates.
+- [MediaScout](https://github.com/rsd-darshan/MediaScout) - Discover and download free stock media.
+- [BusTracking](https://github.com/rsd-darshan/BusTracking) - Real-time bus tracking with ETA support.
 
-Feel free to reach out via [email](mailto:poudeldarshan44@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/poudeldarshan/).
+## Tech Stack
+
+- **Languages:** Python, JavaScript, PHP, HTML, CSS
+- **AI/ML:** TensorFlow, scikit-learn
+- **Frontend:** React
+- **Backend:** Node.js
+- **Tooling:** Git, Docker, VS Code
+
+## Contact
+
+- **Email:** [poudeldarshan44@gmail.com](mailto:poudeldarshan44@gmail.com)
+- **LinkedIn:** [linkedin.com/in/poudeldarshan](https://www.linkedin.com/in/poudeldarshan/)
 
 ---
 
-Thanks for visiting!
+If you are interested in collaborating, feel free to connect.

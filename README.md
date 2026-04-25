@@ -2,6 +2,7 @@
 
 I build practical products with **AI/ML**, **full-stack web development**, and **developer-focused tools**.  
 My work focuses on high-impact, real-world use cases in education, agriculture, productivity, and digital platforms.
+Founder of [CogVexa](https://cogvexa.vercel.app/) - research-grounded AI built into real products.
 
 ## What I Build
 

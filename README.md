@@ -11,18 +11,19 @@ My work focuses on high-impact, real-world use cases in education, agriculture, 
 
 ## Featured Repositories
 
+- [NCG](https://github.com/rsd-darshan/NCG) - Novelty-triggered Capacity Growth for self-regulating continual learning.
 - [FieldSense](https://github.com/rsd-darshan/FieldSense) - Agricultural ML decision support for crop/fertilizer recommendations, heuristic intelligence, and optional leaf disease screening.
-- [AlgoLearn](https://github.com/rsd-darshan/AlgoLearn) - Beginner-friendly CS learning platform with simple, structured explanations and exercises.
-- [AetherRSD](https://aetherrsd.netlify.app/) - AI tools project focused on practical assistance and experimentation.
-- [FunFusion-1](https://funnfusion.netlify.app/) - Lightweight mini-game collection built for fun in a compact package.
-- [FunFusion-2](https://funfusion-2.netlify.app/) - Expanded sequel with 30 mini-games in around 2MB, focused on variety and accessibility.
-- [FunFusion (repo)](https://github.com/rsd-darshan/FunFusion) - Source repository for the FunFusion project line.
-- [GharBari](https://github.com/rsd-darshan/GharBari) - Grocery and household e-commerce platform built for accessibility and affordability in Nepal.
-- [merokitab](https://github.com/rsd-darshan/merokitab) - Marketplace platform for buying and selling used books.
 - [LinkU](https://github.com/rsd-darshan/LinkU) - Project for building and sharing useful links and resources.
 
 ## Additional Projects
 
+- [AlgoLearn](https://github.com/rsd-darshan/AlgoLearn) - Beginner-friendly CS learning platform with simple, structured explanations and exercises.
+- [GharBari](https://github.com/rsd-darshan/GharBari) - Grocery and household e-commerce platform built for accessibility and affordability in Nepal.
+- [merokitab](https://github.com/rsd-darshan/merokitab) - Marketplace platform for buying and selling used books.
+- [AetherRSD](https://aetherrsd.netlify.app/) - AI tools project focused on practical assistance and experimentation.
+- [FunFusion-1](https://funnfusion.netlify.app/) - Lightweight mini-game collection built for fun in a compact package.
+- [FunFusion-2](https://funfusion-2.netlify.app/) - Expanded sequel with 30 mini-games in around 2MB, focused on variety and accessibility.
+- [FunFusion (repo)](https://github.com/rsd-darshan/FunFusion) - Source repository for the FunFusion project line.
 - [RepoGenie](https://github.com/rsd-darshan/RepoGenie) - AI-powered repo setup assistant.
 - [RepoExplorer](https://github.com/rsd-darshan/RepoExplorer) - GitHub repository discovery with advanced filtering.
 - [Template-Explorer](https://github.com/rsd-darshan/Template-Explorer) - Browse, preview, and download website templates.

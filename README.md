@@ -12,9 +12,9 @@ Founder of [CogVexa](https://cogvexa.vercel.app/) - research-grounded AI built i
 
 ## Featured OSS Contribution
 
-- **Keras (AI framework):** [Fix malformed class-config deserialization error](https://github.com/keras-team/keras/pull/22778)
-  - Added a targeted bug fix in `deserialize_keras_object` and a regression test to prevent internal `AttributeError` leaks.
-  - Passed full cross-backend CI matrix (TensorFlow, JAX, Torch, NumPy, OpenVINO) and project contributor checks.
+- **Keras (AI framework):** [Fix malformed class-config deserialization error (PR Open)](https://github.com/keras-team/keras/pull/22778)
+  - Identified and submitted a fix in `deserialize_keras_object` to resolve internal `AttributeError` leaks caused by malformed class-config deserialization.
+  - Added regression tests; PR passes full cross-backend CI matrix (TensorFlow, JAX, PyTorch, NumPy, OpenVINO).
 
 ## Featured Repositories
 

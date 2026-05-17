@@ -10,12 +10,6 @@ Founder of [CogVexa](https://cogvexa.vercel.app/) - research-grounded AI built i
 - **Web apps** that solve practical problems with clean UX
 - **Developer tools** that improve workflow and project setup speed
 
-## Featured OSS Contribution
-
-- **Keras (AI framework):** [Fix malformed class-config deserialization error (PR Open)](https://github.com/keras-team/keras/pull/22778)
-  - Identified and submitted a fix in `deserialize_keras_object` to resolve internal `AttributeError` leaks caused by malformed class-config deserialization.
-  - Added regression tests; PR passes full cross-backend CI matrix (TensorFlow, JAX, PyTorch, NumPy, OpenVINO).
-
 ## Featured Repositories
 
 - [NCG](https://github.com/rsd-darshan/NCG) - Novelty-triggered Capacity Growth for self-regulating continual learning.

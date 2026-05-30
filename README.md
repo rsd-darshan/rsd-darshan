@@ -42,8 +42,6 @@ Founder of [CogVexa](https://cogvexa.vercel.app/) - research-grounded AI built i
 ## Contact
 
 - **Email:** [poudeldarshan44@gmail.com](mailto:poudeldarshan44@gmail.com)
-- **LinkedIn:** [linkedin.com/in/poudeldarshan](https://www.linkedin.com/in/poudeldarshan/)
-
 ---
 
 If you are interested in collaborating, feel free to connect.

@@ -1,47 +1,62 @@
-# Darshan Poudel 👋
+# Darshan Poudel
 
-I build practical products with **AI/ML**, **full-stack web development**, and **developer-focused tools**.  
-My work focuses on high-impact, real-world use cases in education, agriculture, productivity, and digital platforms.
-Founder of [CogVexa](https://cogvexa.vercel.app/) - research-grounded AI built into real products.
+I build practical products with AI/ML, full-stack web development, and developer-focused tools.
 
-## What I Build
+---
 
-- **AI-powered systems** for recommendation, prediction, and decision support
-- **Web apps** that solve practical problems with clean UX
-- **Developer tools** that improve workflow and project setup speed
+## Projects
 
-## Featured Repositories
+### [ARIA — Adaptive Recurrent Intelligence Architecture](https://github.com/rsd-darshan/ARIA)
+Continual learning architecture that restructures itself to prevent catastrophic forgetting. Heads split and merge dynamically, pathways self-modulate, and slow-pathway weights are selectively consolidated.
 
-- [NCG](https://github.com/rsd-darshan/NCG) - Novelty-triggered Capacity Growth for self-regulating continual learning.
-- [FieldSense](https://github.com/rsd-darshan/FieldSense) - Agricultural ML decision support for crop/fertilizer recommendations, heuristic intelligence, and optional leaf disease screening.
-- [LinkU](https://github.com/rsd-darshan/LinkU) - Project for building and sharing useful links and resources.
+- **Novel mechanisms:** Morphogenic attention (MA), plasticity-gated MLP (PG-MLP), architecture genome vector (AGV), cognitive budget allocator (CBA)
+- **Results:** 98.5% accuracy on Split-MNIST with 0.86% forgetting (vs EWC: 97.35% / 2.29% forgetting)
+- **Approach:** Architecture itself adapts proactively, not reactive weight consolidation
+- Comprehensive benchmarks, multi-seed evaluation, publication-quality ablations
+- **Tech:** Python, PyTorch, research-grade continual learning
+- **Status:** Research prototype with full paper and reproducible experiments
 
-## Additional Projects
+### [LinkU](https://github.com/rsd-darshan/LinkU)
+Platform connecting students directly with mentors for college admissions guidance. Built for the 1.3M+ students scattered across Reddit, Discord, and anonymous forums looking for structured, real mentorship.
 
-- [AlgoLearn](https://github.com/rsd-darshan/AlgoLearn) - Beginner-friendly CS learning platform with simple, structured explanations and exercises.
-- [GharBari](https://github.com/rsd-darshan/GharBari) - Grocery and household e-commerce platform built for accessibility and affordability in Nepal.
-- [merokitab](https://github.com/rsd-darshan/merokitab) - Marketplace platform for buying and selling used books.
-- [AetherRSD](https://aetherrsd.netlify.app/) - AI tools project focused on practical assistance and experimentation.
-- [FunFusion-1](https://funnfusion.netlify.app/) - Lightweight mini-game collection built for fun in a compact package.
-- [FunFusion-2](https://funfusion-2.netlify.app/) - Expanded sequel with 30 mini-games in around 2MB, focused on variety and accessibility.
-- [FunFusion (repo)](https://github.com/rsd-darshan/FunFusion) - Source repository for the FunFusion project line.
-- [RepoGenie](https://github.com/rsd-darshan/RepoGenie) - AI-powered repo setup assistant.
-- [RepoExplorer](https://github.com/rsd-darshan/RepoExplorer) - GitHub repository discovery with advanced filtering.
-- [Template-Explorer](https://github.com/rsd-darshan/Template-Explorer) - Browse, preview, and download website templates.
-- [MediaScout](https://github.com/rsd-darshan/MediaScout) - Discover and download free stock media.
-- [BusTracking](https://github.com/rsd-darshan/BusTracking) - Real-time bus tracking with ETA support.
+- Full mentor discovery engine with ML-based matching
+- Bookable sessions, direct messaging, in-app video via Agora
+- Admin moderation, Stripe payments, university-specific feeds
+- **Tech:** Next.js 16, TypeScript, PostgreSQL, Clerk, Stripe, AWS S3
+- **Live:** [linkU demo](https://linku.vercel.app)
 
-## Tech Stack
+### [FieldSense](https://github.com/rsd-darshan/FieldSense)
+Decision support tool for farm-level agronomy. Structured assistance from field data and optional leaf imagery with explainable outputs, full audit trail, and transparent uncertainty boundaries.
 
-- **Languages:** Python, JavaScript, PHP, HTML, CSS
-- **AI/ML:** TensorFlow, scikit-learn
-- **Frontend:** React
-- **Backend:** Node.js
-- **Tooling:** Git, Docker, VS Code
+- Crop suitability & fertilizer recommendations from soil nutrients and weather
+- Lightweight ONNX leaf disease model (~50MB)
+- Full REST API + SQLite history with CSV export
+- Built for technical evaluators and ML engineers exploring agriculture verticals
+- **Tech:** Flask, scikit-learn, PyTorch, ONNX, Vercel
+- **Live:** [fieldsense-ai-platform.vercel.app](https://fieldsense-ai-platform.vercel.app)
+
+### [NCG — Novelty-triggered Capacity Growth](https://github.com/rsd-darshan/NCG)
+Continual learning framework that expands model capacity only when learning dynamics indicate it's necessary. Self-regulating system combining novelty signals, meta-parameters, and gated knowledge memory.
+
+- Prevents catastrophic forgetting while maintaining efficiency
+- Adaptive capacity grows on demand, not worst-case assumptions
+- Combines meta-learning with capacity expansion
+- Research prototype addressing core challenge in continuous autonomous systems
+- **Tech:** Python, PyTorch, meta-learning research
+
+---
+
+## Tech
+
+**Languages:** Python, TypeScript, JavaScript, Go, Rust  
+**Web:** Next.js, React, Node.js, Flask  
+**Data & ML:** PyTorch, scikit-learn, TensorFlow, ONNX  
+**Infrastructure:** Docker, Kubernetes, Vercel, AWS  
+
+---
 
 ## Contact
 
-- **Email:** [poudeldarshan44@gmail.com](mailto:poudeldarshan44@gmail.com)
----
-![](https://komarev.com/ghpvc/?username=rsd-darshan)
-If you are interested in collaborating, feel free to connect.
+📧 poudeldarshan44@gmail.com  
+🔗 [github.com/rsd-darshan](https://github.com/rsd-darshan)  
+🌐 [darshanpoudel.netlify.app](https://darshanpoudel.netlify.app/)
